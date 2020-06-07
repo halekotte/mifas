@@ -14,6 +14,6 @@ Directories:
 plant-pollinator networks.
 
 2. **mifas_powergrid**: Program for calculating the Minimal Fatal Shock (MiFaS) for
-Great Britain power grid.
+the Great Britain power grid.
 
 
